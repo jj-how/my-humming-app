@@ -1,0 +1,6 @@
+{
+  "name": "HumMatch - Humming Song Recognizer",
+  "description": "Hum or sing to identify songs. Powered by Gemini API with weighted lyric and melody analysis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["Audio Recognition", "STT", "Music Search"]
+}

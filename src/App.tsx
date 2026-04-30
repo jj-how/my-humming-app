@@ -57,7 +57,7 @@ export default function App() {
         <h1 className="text-5xl font-display font-bold tracking-tight">HumMatch</h1>
         <p className="text-gray-500 max-w-sm mx-auto leading-relaxed">
           목소리나 허밍으로 노래를 찾아보세요. <br />
-          Gemini AI가 가사와 멜로디를 정밀하게 분석합니다.
+          AI가 가사와 멜로디를 정밀하게 분석합니다.
         </p>
       </header>
 
